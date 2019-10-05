@@ -1,0 +1,5 @@
+D:\SynologyDrive\我的资料库\code\EmailTcp\ImapHelper\bin\Debug\ImapHelper.dll
+D:\SynologyDrive\我的资料库\code\EmailTcp\ImapHelper\bin\Debug\ImapHelper.pdb
+D:\SynologyDrive\我的资料库\code\EmailTcp\ImapHelper\obj\Debug\ImapHelper.csprojResolveAssemblyReference.cache
+D:\SynologyDrive\我的资料库\code\EmailTcp\ImapHelper\obj\Debug\ImapHelper.dll
+D:\SynologyDrive\我的资料库\code\EmailTcp\ImapHelper\obj\Debug\ImapHelper.pdb

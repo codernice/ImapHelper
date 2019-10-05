@@ -1,0 +1,8 @@
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\bin\Debug\EmailTcp.exe.config
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\bin\Debug\EmailTcp.exe
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\bin\Debug\EmailTcp.pdb
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\obj\Debug\EmailTcp.csprojResolveAssemblyReference.cache
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\obj\Debug\EmailTcp.exe
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\obj\Debug\EmailTcp.pdb
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\bin\Debug\ImapHelper.dll
+D:\SynologyDrive\我的资料库\code\EmailTcp\EmailTcp\bin\Debug\ImapHelper.pdb
